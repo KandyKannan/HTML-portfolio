@@ -1,0 +1,45 @@
+*{text-align: center;}
+.html
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(29, 93, 155);
+    color: white;
+}
+
+.name {
+    color: brown;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.address {
+    color: rgb(100, 41, 41);
+}
+
+.name {
+    text-align: center;
+}
+
+.button {
+    border: 2px;
+    list-style: 2.5;
+    padding: 10px 25px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(101, 204, 101);
+    cursor: pointer;
+}
+
+
